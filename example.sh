@@ -1,4 +1,6 @@
 #!/bin/bash
+#SHELL Scrips
+
 echo '当前脚本名为$0'
 echo '当前有$#个参数,分别为$*'
 echo '第一个参数为$1,第二个$2'
